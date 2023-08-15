@@ -8,8 +8,6 @@
  <a href="#autor">Autor</a>
 </p>
 
-![Captura de tela 2022-11-26 115836](https://user-images.githubusercontent.com/91858793/204095351-8a30f21f-86aa-4bf4-9a55-899f086629dc.png)
-
 ### Objetivo
 ---
 A aplicação "Product Scraper" é um projeto que demonstra como usar a biblioteca Selenium em Python para extrair dados de produtos de várias páginas da web. A aplicação foi criada com o objetivo de automatizar a coleta de informações de produtos, como nome, preço, loja online e link, a partir de sites de comércio eletrônico ou catálogos online.
