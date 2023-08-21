@@ -1,9 +1,11 @@
 # Globals config
 TIME_SLEEP = 3
+TOOL_VERSION = '2.0'
 
 # URLs and list of products
 URL = 'https://www.google.com/'
-PRODUCT_LIST = ['cadeira gamer', 'placa de video', 'monitor 21 pol']
+
+PRODUCT_LIST = []
 
 # XPaths to elements
 XPATHS = {

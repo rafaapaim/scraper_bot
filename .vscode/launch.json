@@ -7,11 +7,12 @@
 
 
 
+
         {
             "name": "search_bot",
             "type": "python",
             "request": "launch",
-            "program": "product.py",
+            "program": "scripts/interface.py",
             "console": "integratedTerminal",
             "justMyCode": true
         }
