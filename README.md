@@ -27,7 +27,9 @@ Portanto, o projeto "Product Scraper" não apenas demonstra a automação de tar
 ### Tecnologias
 ---
 
-Python 3.11
+Python 3.11 •
+Selenium •
+PySimpleGUI
 
 ### Autor
 ---
